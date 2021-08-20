@@ -2,8 +2,7 @@
 #include <iomanip>
 using namespace std;
 
-int main(){
-
+void rectangleShape() {
 	int height, width;
 	char symbol;
 
@@ -20,7 +19,4 @@ int main(){
 		}
 		cout << endl;
 	}
-
-	system("pause>0");
 }
-
